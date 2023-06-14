@@ -1,0 +1,19 @@
+#big-head{
+height:100vh;
+}
+#main-content{
+    height: 100vh;
+    background-color: red;
+    background-image: url("../img/image2.avif");
+}
+
+.mainFooter{
+    height: 1000vh;
+    background-image:url("../img/image1.avif");
+    background-repeat:no-repeat ;
+}
+.text{
+    background-color: green;
+}
+
+
